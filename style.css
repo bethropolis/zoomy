@@ -90,9 +90,14 @@ button{
   align-items: center;
   justify-content: space-between;
 }
-.download-a{
-  background: #0d6efd;
-}
+
+.contact{
+    width: 150px;
+    position: fixed;
+    right: 2px;
+    bottom:10px;
+    text-decoration: none;
+  }
 .text p
 {
     color: darkgrey;
