@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Rubik', sans-sefri;
 }
 img{
  width: 16rem;
@@ -68,7 +68,7 @@ button{
 }
 
 .download-a {
-    background: #fff;
+    background: #fff !important;
     color: black;
     border: 2px solid rgb(6, 82, 221);
 }
