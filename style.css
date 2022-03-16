@@ -67,8 +67,9 @@ button{
   border: none;
 }
 
-.download-a{
-    background-color: #fff;
+.download-a {
+    background: #fff;
+    color: black;
     border: 2px solid rgb(6, 82, 221);
 }
 
