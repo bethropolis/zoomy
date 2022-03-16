@@ -66,6 +66,12 @@ button{
   background: rgb(6, 82, 221);
   border: none;
 }
+
+.download-a{
+    background-color: #fff;
+    border: 2px solid rgb(6, 82, 221);
+}
+
 .text
 {
     width: 27rem;
