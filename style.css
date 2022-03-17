@@ -72,7 +72,15 @@ button{
     color: black;
     border: 2px solid rgb(6, 82, 221);
 }
-
+.download-a:hover {
+  background: rgb(6, 82, 221) !important;
+  color: white;
+}
+.download-b:hover {
+    background: #fff !important;
+    color: black;
+    border: 2px solid rgb(6, 82, 221);
+}
 .text
 {
     width: 27rem;
